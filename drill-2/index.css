@@ -1,0 +1,79 @@
+#box1 {
+    background-color: white;
+    position: absolute;
+    height: 130px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    border: 3px solid black;
+}
+#box2 {
+    background-color: rgba(84, 15, 180, 0.782);
+    position: absolute;
+    height: 85px;
+    top: 50px;
+    left: 20px;
+    width: 30px;
+}
+#box3 {
+    background-color: rgb(4, 102, 4);
+    position: absolute;
+    height: 115px;
+    top: 20px;
+    left: 75px;
+    width: 350px;
+}
+#circle {
+    background-color: #34c3d0;
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    height: 115px;
+    width: 115px;
+    
+    border-radius: 50%;
+}
+#dotted-border {
+    background-color: white;
+    position: absolute;
+    height: 170px;
+    top: 165px;
+    left: 10px;
+    right: 10px;
+    border: 3px dotted black;
+}
+#yellow-box {
+    background-color: rgb(251, 242, 183);
+    position: absolute;
+    height: 110px;
+    top: 200px;
+    left: 40px;
+    right: 40px; 
+    box-shadow: 5px 5px 5px black; 
+}
+#box {
+    background-color: white;
+    position: absolute;
+    height: 200px;
+    top: 360px;
+    left: 200px;
+    right: 200px;
+    border-radius: 1%;
+    box-shadow: 2px 2px 6px grey;
+}
+#hello {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100; 
+    font-size: 30px;
+    position: relative;
+    top: 420px;
+    text-align: center;
+}
+#friends {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100; 
+    font-size: 30px;
+    position: relative;
+    top: 420px;
+    text-align: center;
+}

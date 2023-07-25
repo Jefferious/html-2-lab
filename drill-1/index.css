@@ -1,0 +1,29 @@
+header {
+    background-color: rgb(72, 72, 72);
+    position: top;
+    height: 10vw;
+    width: 100vw;
+    z-index: 6;
+}
+
+#light-grey {
+    background-color: lightgray;
+    height: 100vw;
+    width: 100vw;
+}
+
+#box1 {
+    background-color: white;
+    position: relative;
+    height: 90vw;
+    width: 80vw;
+    left: 120px;
+}
+#box2 {
+    background-color: black;
+    position: relative;
+    height: 100px;
+    width: 80vw;
+    left: 120px;
+    bottom: 0px;
+}
